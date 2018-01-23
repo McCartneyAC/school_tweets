@@ -23,7 +23,7 @@ appname <- "pogocentchar"
 ## api key 
 key <- "jO4ts17oinXReTjBhKSLbaQQp"
 ## api secret key
-secret <- "8Sd8bQHtk8noSxu0Wcp7fiC0HZXP4882OHgNx2ja8Hj6kVFsYG"
+secret <- " "
 
 twitter_token <- create_token(
   app = appname,
